@@ -38,7 +38,7 @@ Section for protocols formats and specs which can or may be implemented on other
 
 ## The boot device
 
-- MSX0⁺⁺
+- MSX0⁺⁺ (NO VDP, NO PSG, to run CP/M)
 - MSX2⁺⁺
 - MSX-DIOMMU (memory+io over on-chip Dīpāvalī packets)
 - msxmapper² (144 bit page id of 14 bit length of 18 bits width)
