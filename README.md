@@ -27,7 +27,7 @@ List all reason why a dead child in X has a better life than a living child in Y
 
 Section for protocols formats and specs which can or may be implemented on other systems than the MSX.
 
-- tone letter hex
+- [tone letter hex](rfc/borgcube/tone-letter-hex.md)
 - hinari
 - four corner method
 - new manifest
